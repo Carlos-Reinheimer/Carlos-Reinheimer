@@ -27,6 +27,8 @@ I'm a TI student, Frond-End developer and studying to become a Game developer.
 ## Design
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
+![Snake animation](https://github.com/Carlos-Reinheimer/Carlos-Reinheimer/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
