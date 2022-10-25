@@ -3,7 +3,7 @@
 ![image](https://i.makeagif.com/media/3-15-2016/wMkRou.gif)
 
 I'm Carlos Reinheimer
-I'm a TI student, Frond-End developer and studying to become a Game developer.
+I'm a TI student and Game Developer, currently working with VR in Unity.
 
 ## Languages
 ##### Main
